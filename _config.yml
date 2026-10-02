@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Marco Rocha
+logo: /assets/img/linkedin photo.jpg
+description: My experience, education, projects, and skills.
+show_downloads: false
 theme: jekyll-theme-minimal
