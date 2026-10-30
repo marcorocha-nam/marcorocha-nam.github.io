@@ -21,7 +21,7 @@ First, I opened the repository on GitHub, clicked Code, and copied its URL.In Vi
 
 ### 4. Add the theme files to my repository
 
-I unzipped the downloaded project and copied its contents into the local folder for `marcorocha-nam.github.io`
+I unzipped the downloaded project and copied its contents into the local folder for marcorocha-nam.github.io
 
 ### 5. Configure the theme and portfolio details
 
