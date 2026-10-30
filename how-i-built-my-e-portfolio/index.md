@@ -25,7 +25,7 @@ I unzipped the downloaded project and copied its contents into the local folder 
 
 ### 5. Configure the theme and portfolio details
 
-I configured `_config.yml` to use `jekyll-theme-minimal` and set the site's title, description, headshot image, and download-button preference.
+I configured _config.yml to use jekyll-theme-minimal and set the site's title, description, headshot image, and download-button preference.
 
 ### 6. Write my portfolio homepage
 
