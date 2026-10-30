@@ -29,7 +29,7 @@ I configured _config.yml to use jekyll-theme-minimal and set the site's title, d
 
 ### 6. Write my portfolio homepage
 
-I replaced the sample homepage content in the root `index.md` with my professional information. 
+I replaced the sample homepage content in the root index.md with my professional information. 
 
 ### 7. Commit & publish
 
