@@ -1,6 +1,3 @@
----
-title: How I Built My E-Portfolio
----
 
 # How I Built My GitHub Pages E-Portfolio
 
