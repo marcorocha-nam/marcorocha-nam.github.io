@@ -43,7 +43,7 @@ After making the changes, I committed and pushed them to GitHub. I checked the r
 
 To make a nested page, I created a folder named `how-i-built-my-e-portfolio` and placed this `index.md` file inside it. Jekyll uses the folder structure to organize pages, so this guide is available at [marcorocha-nam.github.io/how-i-built-my-e-portfolio](https://marcorocha-nam.github.io/how-i-built-my-e-portfolio/).
 
-I also added a **Projects** section to the homepage with a link to this guide. To publish the subpage, I need to commit and push the guide and homepage update; after GitHub Pages deploys them, the homepage link will lead to this guide.
+I also added a **Projects** section to the homepage with a link to this guide, then committed and pushed both changes. After GitHub Pages deployed them, the homepage link led to this subpage.
 
 ## Screenshots and Resources
 
