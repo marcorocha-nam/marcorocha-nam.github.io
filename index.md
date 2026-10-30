@@ -30,6 +30,10 @@ Commercial leader in global shipping and logistics, experienced in business perf
 2. Launched a containerized banana service from Ecuador to the Black Sea.
 3. Supported Hamburg Süd integration and ocean-forwarding integration.
 
+## Projects
+
+Read my guide, [How I Built My GitHub Pages E-Portfolio](./how-i-built-my-e-portfolio/), for the steps and resources used to create this site.
+
 ## Skills
 
 Commercial strategy, negotiation, financial performance, network planning, and international leadership.
