@@ -31,9 +31,10 @@ I configured `_config.yml` to use `jekyll-theme-minimal` and set the site's titl
 
 I replaced the sample homepage content in the root `index.md` with my professional information. 
 
-### 7. Commit, publish, and check the site
+### 7. Commit & publish
 
-After making the changes, I committed and pushed them to GitHub. I checked the repository's Actions tab for the Pages build and deployment, then visited [my published portfolio](https://marcorocha-nam.github.io/) to confirm the site was live.
+After making the changes, I committed and pushed them to GitHub. 
+I checked the repository's Actions tab for the Pages build and deployment, then visited [my published portfolio](https://marcorocha-nam.github.io/) to confirm the site was live.
 
 
 ### Resources
